@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 017a5eb4308a4c84294445aa7d3deff4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CientificoGun1.1
+    21300002: CientificoGun1.2
+    21300004: CientificoGun1.3
+    21300006: CientificoGun1.4
+    21300008: CientificoGun2.1
+    21300010: CientificoGun2.2
+    21300012: CientificoGun2.3
+    21300014: CientificoGun2.4
+    21300016: CientificoGun3.1
+    21300018: CientificoGun3.2
+    21300020: CientificoGun3.3
+    21300022: CientificoGun4.1
+    21300024: CientificoGun4.2
+    21300026: CientificoGun4.3
+    21300028: CientificoGun4.4
+    21300030: CientificoGun5.1
+    21300032: CientificoGun5.2
+    21300034: CientificoGun5.4
+    21300036: CientificoGun5.3
+    21300038: CientificoGun6.1
+    21300040: CientificoGun6.3
+    21300042: CientificoGun6.2
+    21300044: CientificoGun1
+    21300046: CientificoGun2
+    21300048: Cientifico Gun_2
+    21300050: Cientifico Gun_3
+    21300052: CientificoGun_Run1
+    21300054: CientificoGun_Run2
+    21300056: Cientifico Gun_6
+    21300058: Cientifico Gun_7
+    21300060: Cientifico Gun_8
+    21300062: Cientifico Gun_9
+    21300064: CientificoGun_Run3
+    21300066: CientificoGun_Run4
+    21300068: CientificoGun_Surprise
+    21300070: Cientifico Gun_13
+    21300072: Cientifico Gun_14
+    21300074: Cientifico Gun_15
+    21300076: Cientifico Gun_16
+    21300078: Cientifico Gun_17
+    21300080: CientificoGun_Cry
+    21300082: Cientifico Gun_19
+    21300084: Cientifico Gun_20
+    21300086: Cientifico Gun_21
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CientificoGun1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1798
+        width: 257
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d9e1774fec446b087e244f986a54da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CientificoGun2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1775
+        width: 256
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4531d2cfe756b4e1aae7671104521dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_2
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1780
+        width: 257
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0ced14acdb46b9b6348f20f65bf28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_3
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 1779
+        width: 257
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d7a4e04451846a98321afbfb4b27be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CientificoGun_Run1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1263
+        width: 257
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd2737cf97a473eb49b6bb7af37b4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CientificoGun_Run2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1257
+        width: 259
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76581c0ab94104d77b4457fe03066c48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_6
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1242
+        width: 296
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee91441bc2f2463fa0dbf45b54280f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_7
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1204
+        width: 296
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91fe4e51e0e84cbd9ea26baa2c06eee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_8
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1256
+        width: 257
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6867ff6d1e04d1d90673abd140155a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_9
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 1245
+        width: 258
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc56f401ea64beaa61ecf11ab3f80f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CientificoGun_Run3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 743
+        width: 256
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e0c1a58ea174bf1a59ef8e1db484cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CientificoGun_Run4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 725
+        width: 258
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84473e9685a5c4b96bb0954286195f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CientificoGun_Surprise
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 704
+        width: 296
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1f923dc7117426e9e3fec34253bd4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_13
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 666
+        width: 298
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340adc4d7728c439e947288c6966537d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_14
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 730
+        width: 258
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232c663981e724545a3c0364faa20d2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_15
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 726
+        width: 260
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587fee9e75b434f6e8752f635e6c56b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 224
+        width: 257
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6370d533b7b4011a117a2da4c549d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 230
+        width: 295
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2009acd08e3a4884ab4eb31cd67e426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CientificoGun_Cry
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 201
+        width: 257
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fa1e745de384f85a23dcdc79a9292c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_19
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 163
+        width: 258
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e15aa49b3764caa97b8d31ddcfb421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_20
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 231
+        width: 298
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d3785cc1eb5474f825eb0aedb1fe6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cientifico Gun_21
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 206
+        width: 256
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad627ebea65ef4dc6967ccc98ecd761a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: affba5be92306f8468abd1d065904a6c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
